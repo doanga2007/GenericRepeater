@@ -1,0 +1,6 @@
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\bin\GenericRepeater.dll.config
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\bin\GenericRepeater.dll
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\bin\GenericRepeater.pdb
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\obj\Debug\GenericRepeater.csprojResolveAssemblyReference.cache
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\obj\Debug\GenericRepeater.dll
+C:\Users\508382\Documents\Visual Studio 2013\Projects\GenericRepeater\GenericRepeater\obj\Debug\GenericRepeater.pdb
